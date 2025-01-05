@@ -31,3 +31,6 @@ By taking a data-driven approach, this project aims to:
 - Analyze socio-economic factors (income, literacy, healthcare access)
 - Identify key poverty drivers and regional disparities as well as,
 - Propose data-driven recommendations for effective poverty alleviation.
+
+![SDG GOAL 1DASHBOARD](https://github.com/user-attachments/assets/4c8e184f-2ad8-428f-ae90-fe17c9d5bc47)
+
