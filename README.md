@@ -73,12 +73,11 @@ href="mailto:bukkieotegbeye80@gmail.com">bukkieotegbeye80@gmail.com</a></td>
 <tr>
 <td>🏠</td>
 <td>lagos, Nigeria</td>
-</tr>
-<tr>
 <td>⬇</td>
 <td><a
-href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my
+href="https://docs.google.com/document/d/1o4Xjwtn85FOswTQ7tbJY1wLbTnd-8eIN/edit?usp=sharing&ouid=105457459482550682746&rtpof=true&sd=true>Download my
 CV</a></td>
+</tr>
 </tr>
 <tr>
 <td>🌐</td>
