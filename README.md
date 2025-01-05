@@ -49,3 +49,6 @@ The purpose of this analysis is to segment customers of the subscription service
 ![image](https://github.com/user-attachments/assets/d8c90ed9-36cf-4362-896e-d84634090baf)
 
 [Read More](https://github.com/bukolaotes/Lita-Capstone-Project-2-customer-segmentation-Analysis-for-subcription-service)
+
+This project analyzes employee attrition within the organization using key metrics such as turnover rates by department and age band. The analysis aims to identify patterns and insights that could guide HR strategies to improve employee retention.
+
