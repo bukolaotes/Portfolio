@@ -35,3 +35,6 @@ By taking a data-driven approach, this project aims to:
 ![SDG GOAL 1DASHBOARD](https://github.com/user-attachments/assets/4c8e184f-2ad8-428f-ae90-fe17c9d5bc47)
 
 [Read More](https://github.com/bukolaotes/WOMEN-TECHSTER-TECH4DEV-BOOTCAMP-GROUP-PROJECT)
+
+
+This project aims to analyze monthly sales performance across different regions and product lines to identify trends and areas for improvement.
