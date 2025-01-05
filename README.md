@@ -19,5 +19,6 @@ The aim  of this project is to analyze P&L data to understand revenue, expenses,
 https://github.com/bukolaotes/Profit-and-loss-Financial-Statement-Analysis
 
 
+The aim of this project is to explore patterns, trends and relationship within the data to understand key aspects of the Electric Value Market Which include understanding EV adoption, Evaluating Markets Factors, Geographic and Demographic Analysis and Policy Impact. Which cover from year 2011 till 2024.
 
 
