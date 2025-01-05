@@ -62,7 +62,7 @@ This project analyzes employee attrition within the organization using key metri
 <table>
 <tbody>
 <tr>
-<td📨></td>
+<td>📧</td>
 <td><a
 href="mailto:bukkieotegbeye80@gmail.com">bukkieotegbeye80@gmail.com</a></td>
 </tr>
