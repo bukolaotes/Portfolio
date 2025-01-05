@@ -61,6 +61,7 @@ This project analyzes employee attrition within the organization using key metri
 *Let’s connect and see how we can make a difference together!*
 <table>
 <tbody>
+
 <tr>
 <td>📧</td>
 <td><a
