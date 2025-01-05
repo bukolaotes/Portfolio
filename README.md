@@ -83,8 +83,6 @@ href="https://docs.google.com/document/d/1o4Xjwtn85FOswTQ7tbJY1wLbTnd-8eIN/edit?
 CV</a></td>
 </tr>
 <tr>
-</tr>
-</tr>
 <td>🌐</td>
 <td><a href="https://linkedin.com/in/olubukola-otegbeye-a5a787176">The things I do daily
 on LinkedIn</a></td>
