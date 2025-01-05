@@ -38,3 +38,5 @@ By taking a data-driven approach, this project aims to:
 
 
 This project aims to analyze monthly sales performance across different regions and product lines to identify trends and areas for improvement.
+
+![image](https://github.com/user-attachments/assets/e05b8605-02c1-4078-ab6e-3ca39b9684f4)
