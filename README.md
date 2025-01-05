@@ -42,3 +42,6 @@ This project aims to analyze monthly sales performance across different regions 
 ![image](https://github.com/user-attachments/assets/e05b8605-02c1-4078-ab6e-3ca39b9684f4)
 
 [Read More](https://github.com/bukolaotes/Lita-Capstone-Project-1-Sales-Performance-Analysis-)
+
+
+The purpose of this analysis is to segment customers of the subscription service to better understand their behaviors, preferences, and potential lifetime value. This segmentation will help inform personalized marketing strategies, improve customer retention, and optimize product offerings.
