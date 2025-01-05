@@ -27,4 +27,7 @@ The aim of this project is to explore patterns, trends and relationship within t
 [Read More](https://github.com/bukolaotes/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-ELECTRIC-VEHICLE-ANALYSIS)
 
 
-
+By taking a data-driven approach, this project aims to:
+- Analyze socio-economic factors (income, literacy, healthcare access)
+- Identify key poverty drivers and regional disparities as well as,
+- Propose data-driven recommendations for effective poverty alleviation.
