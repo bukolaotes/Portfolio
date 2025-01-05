@@ -59,10 +59,12 @@ This project analyzes employee attrition within the organization using key metri
 
 ## CONTACT DETAILS
 *Let’s connect and see how we can make a difference together!*
+<table>
+ <tbody>
+   <tr>
 
-<tr>
-<td>📧</td>
-<td><a
+   <td>📧</td>
+   <td><a
 href="mailto:bukkieotegbeye80@gmail.com">bukkieotegbeye80@gmail.com</a></td>
 </tr>
 <tr>
