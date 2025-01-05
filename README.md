@@ -45,3 +45,6 @@ This project aims to analyze monthly sales performance across different regions 
 
 
 The purpose of this analysis is to segment customers of the subscription service to better understand their behaviors, preferences, and potential lifetime value. This segmentation will help inform personalized marketing strategies, improve customer retention, and optimize product offerings.
+
+![image](https://github.com/user-attachments/assets/d8c90ed9-36cf-4362-896e-d84634090baf)
+
