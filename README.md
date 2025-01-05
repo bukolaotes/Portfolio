@@ -16,7 +16,7 @@ The aim  of this project is to analyze P&L data to understand revenue, expenses,
 
 ![Profit and loss financial statement dashboard](https://github.com/user-attachments/assets/5e01c10d-571e-4254-a34f-76f22a204fab)
 
-[Read More] https://docs.google.com/document/d/1lcy0wlE9nHI9DpCtJ2kgd12pUqnNonHJ/edit?usp=sharing&ouid=105457459482550682746&rtpof=true&sd=true
+[Read More](https://docs.google.com/document/d/1lcy0wlE9nHI9DpCtJ2kgd12pUqnNonHJ/edit?usp=sharing&ouid=105457459482550682746&rtpof=true&sd=true)
 
 
 
