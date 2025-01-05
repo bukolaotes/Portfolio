@@ -52,3 +52,5 @@ The purpose of this analysis is to segment customers of the subscription service
 
 This project analyzes employee attrition within the organization using key metrics such as turnover rates by department and age band. The analysis aims to identify patterns and insights that could guide HR strategies to improve employee retention.
 
+![image](https://github.com/user-attachments/assets/9e2161f3-dccf-4891-b558-d69fb76751c5)
+
