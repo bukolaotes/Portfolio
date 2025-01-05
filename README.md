@@ -77,8 +77,10 @@ href="mailto:bukkieotegbeye80@gmail.com">bukkieotegbeye80@gmail.com</a></td>
 <tr> 
 <td>⬇</td>
 <td><a
-href="https://docs.google.com/document/d/1o4Xjwtn85FOswTQ7tbJY1wLbTnd-8eIN/edit?usp=drive_link&ouid=105457459482550682746&rtpof=true&sd=true>Download my
+href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my
 CV</a></td>
+</tr>
+<tr>
 </tr>
 </tr>
 <td>🌐</td>
