@@ -54,3 +54,4 @@ This project analyzes employee attrition within the organization using key metri
 
 ![image](https://github.com/user-attachments/assets/9e2161f3-dccf-4891-b558-d69fb76751c5)
 
+[Read More](https://github.com/bukolaotes/LITA-CLASS-PROJECT-HR-ANALYSIS-TRACKER)
