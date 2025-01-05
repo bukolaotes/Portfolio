@@ -55,3 +55,33 @@ This project analyzes employee attrition within the organization using key metri
 ![image](https://github.com/user-attachments/assets/9e2161f3-dccf-4891-b558-d69fb76751c5)
 
 [Read More](https://github.com/bukolaotes/LITA-CLASS-PROJECT-HR-ANALYSIS-TRACKER)
+
+
+## CONTACT DETAILS
+*Let’s connect and see how we can make a difference together!*
+<table>
+<tbody>
+<tr>
+<td>􊷗􊷘􊷙􊷚􊷛􊷝􊷜</td>
+<td><a
+href="mailto:bukkieotegbeye80@gmail.com">bukkieotegbeye80@gmail.com</a></td>
+</tr>
+<tr>
+<td>􊶭􊶮</td>
+<td>(234) 805-644-0571</td>
+</tr>
+<tr>
+<td>􊵗􊵙􊵘</td>
+<td>lagos, Nigeria</td>
+</tr>
+<tr>
+<td>􈄥􎆻</td>
+<td><a
+href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my
+CV</a></td>
+</tr>
+<tr>
+<td>􈈏</td>
+<td><a href="https://linkedin.com/in/etukanietie">
+</tr>
+<tr>
