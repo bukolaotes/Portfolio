@@ -71,7 +71,7 @@ href="mailto:bukkieotegbeye80@gmail.com">bukkieotegbeye80@gmail.com</a></td>
 <td>(234) 805-644-0571</td>
 </tr>
 <tr>
-<td🏘</td>
+<td>🏠</td>
 <td>lagos, Nigeria</td>
 </tr>
 <tr>
