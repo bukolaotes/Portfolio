@@ -13,3 +13,5 @@ Hello! I'm Olubukola Otegbeye, an aspiring data analyst with passion for turning
 ## MY PROJECTS
 
 The aim  of this project is to analyze P&L data to understand revenue, expenses, and overall profitability across the branches.
+
+Profit and loss financial statement dashboard.png
