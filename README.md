@@ -25,3 +25,4 @@ The aim of this project is to explore patterns, trends and relationship within t
 ![ELECTRIC VEHICLE DASHBOARD SCREENSHOT](https://github.com/user-attachments/assets/8b75c94d-2f39-4127-a9ab-4a41c68683b0)
 
 https://github.com/bukolaotes/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-ELECTRIC-VEHICLE-ANALYSIS
+https://github.com/bukolaotes/Profit-and-loss-Financial-Statement-Analysis?tab=readme-ov-file#project-title-profit-and-loss-statement-financial-analysis
