@@ -81,10 +81,8 @@ href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my
 CV</a></td>
 </tr>
 <tr>
-<td>􈈏</td>https:https://www.linkedin.com/in/olubukola-otegbeye-a5a787176/">
-<td><a href="">
-</tr>
-<tr>The things I do daily
+<td>🌐</td>
+<td><a href="https://linkedin.com/in/olubukola-otegbeye-a5a787176">The things I do daily
 on LinkedIn</a></td>
 </tr>
 <tr>
