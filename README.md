@@ -84,4 +84,7 @@ CV</a></td>
 <td>􈈏</td>
 <td><a href="https://linkedin.com/in/etukanietie">
 </tr>
+<tr>The things I do daily
+on LinkedIn</a></td>
+</tr>
 <tr>
